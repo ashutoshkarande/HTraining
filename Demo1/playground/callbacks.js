@@ -9,8 +9,6 @@ var getUser = (id, callback) => {
     }, 2000);
 };
 
-
-
 getUser(1, (user) => {
     console.log(user);
 });
