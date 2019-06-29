@@ -8,4 +8,4 @@ setTimeout(() => {
     console.log("in function 2");
 }, 0);
 
-console.log("Ending..");
+console.log("Ending...");
